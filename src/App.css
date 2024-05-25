@@ -1,5 +1,27 @@
+
 .second{
   display: flex;
   justify-content: space-around;
   
+}
+button{
+  padding: 10px;
+  background-color: #f8f9fa;
+  color:#6c757d;
+  border-radius: 4px;
+  border: none;
+}
+.entry{
+  display: flex;
+  justify-content: space-around;
+}
+h4{
+  color:#6c757d;
+}
+input{
+  width:300px;
+}
+
+#but{
+  background-color:aqua;
 }
